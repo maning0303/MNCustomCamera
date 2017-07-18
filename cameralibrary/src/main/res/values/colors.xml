@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<color name="rectangle_color">#33bd61</color>-->
+    <color name="rectangle_color">#FFFFFF</color>
+    <color name="rectangle_text_color">#FFFFFF</color>
+    <color name="trance_black_color">#bd000000</color>
+
+</resources>
