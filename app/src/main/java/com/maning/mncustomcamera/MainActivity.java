@@ -33,6 +33,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void btn01(View view) {
+        /**
+         * 开启相机
+         * 参数1: 上下文
+         * 参数2: 请求码,用于onActivityResult
+         */
         CameraUtil.getInstance().startCamera(this, 100);
     }
 
